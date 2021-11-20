@@ -4,7 +4,7 @@
 
 ##### Bio
 
-- 🏢 I'm currently doing some **Python projects**
+- 🏢 I'm currently doing some **web projects**
 - ❤️ I love watching **anime, reading manga, as well as novel**
 - 🌱 Learning all about **Open Source and Software Development**
 - 🌍 I'm mostly active within the **Anime and Python Community**
