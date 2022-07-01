@@ -9,4 +9,4 @@
 - 🌱 Learning all about **Open Source and Software Development**
 - 🌍 I'm mostly active within the **Anime and Python Community**
 - 💬 Ping me about **anime**, **manga**, **novel**, **development**, **or anything really**
-- 📫 Reach me: [ccrsxx#3399](https://discordapp.com/users/414304208649453568)
+- 📫 Reach me: [ccrsxx#0001](https://discordapp.com/users/414304208649453568)
