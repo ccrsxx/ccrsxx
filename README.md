@@ -14,4 +14,16 @@
 ### Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```text
+From: 11 August 2022 - To: 18 August 2022
+
+Total Time: 1 hr 30 mins
+
+TypeScript   1 hr 55 mins    ████████████████░░░░░░░░░   63.37 %
+YAML         39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+Markdown     23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+SCSS         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+```
+
 <!--END_SECTION:waka-->
