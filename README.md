@@ -2,8 +2,6 @@
 
 I'm a self-taught developer, who's currently pursuing a Full-Stack development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend
 
-<div style='display: flex; flex-direction: column; gap: 4px;'>
-
 <div align="center">
    <a href="https://steamcommunity.com/id/ccrsxx/" target="_blank" rel="nofollow">
       <img src="assets/steam.svg" alt="Steam" width="32">
@@ -22,11 +20,9 @@ I'm a self-taught developer, who's currently pursuing a Full-Stack development t
    </a>
 </div>
 
-</div>
-
 ---
 
-Bio:
+### 🧑‍💻 Bio
 
 - 📖 I'm currently learning **React and Front-End development in general**
 - ❤️ I love watching **anime, reading manga, as well as light novel**
@@ -36,7 +32,7 @@ Bio:
 
 ---
 
-📊 Weekly development breakdown
+### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 
