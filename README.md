@@ -2,6 +2,8 @@
 
 I'm a self-taught developer, who's currently pursuing a Full-Stack development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend
 
+<div style='display: flex; flex-direction: column; gap: 4px;'>
+
 <div align="center">
    <a href="https://steamcommunity.com/id/ccrsxx/" target="_blank" rel="nofollow">
       <img src="assets/steam.svg" alt="Steam" width="32">
@@ -20,6 +22,8 @@ I'm a self-taught developer, who's currently pursuing a Full-Stack development t
    </a>
 </div>
 
+</div>
+
 ---
 
 Bio:
@@ -29,7 +33,6 @@ Bio:
 - 🌱 Learning all about **Open Source and Software Development**
 - 🌍 I'm mostly active within the **Anime and Python Community**
 - 💬 Ping me about **anime**, **manga**, **novel**, **development**, **or anything really**
-- 📫 Reach me: [ccrsxx#6181](https://discordapp.com/users/414304208649453568)
 
 ---
 
