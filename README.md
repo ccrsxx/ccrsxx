@@ -12,17 +12,12 @@ Bio:
 - 🌍 I'm mostly active within the **Anime and Python Community**
 - 💬 Ping me about **anime**, **manga**, **novel**, **development**, **or anything really**
 
-<div style='display: flex; flex-direction: column; text-align: center;'>
-<p>📫 Reach me: <a href='https://discordapp.com/users/414304208649453568'>ccrsxx#6181</a></p>
-<a style='margin: 1rem;' href="https://discord.com/users/414304208649453568">
-  <img src="https://lanyard-profile-readme.vercel.app/api/414304208649453568?idleMessage=Probably doing something else..." />
-</a>
-</div>
-
 ---
 
-📊 Weekly development breakdown
+<div style='display: flex; gap: 1rem;'>
 
+<div>
+<p style='text-align: center;'>📊 Weekly development breakdown</p>
 <!--START_SECTION:waka-->
 
 ```text
@@ -35,3 +30,13 @@ Other        1 hr 38 mins    █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</div>
+
+<div style='display: flex; flex-direction: column; text-align: center;'>
+<p>📫 Reach me: <a href='https://discordapp.com/users/414304208649453568'>ccrsxx#6181</a></p>
+<a href="https://discord.com/users/414304208649453568">
+  <img src="https://lanyard-profile-readme.vercel.app/api/414304208649453568?idleMessage=Probably doing something else..." />
+</a>
+</div>
+
+</div>
