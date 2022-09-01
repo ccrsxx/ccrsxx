@@ -37,12 +37,12 @@ I'm a self-taught developer, who's currently pursuing a Full-Stack development t
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 30 August 2022
+From: 24 August 2022 - To: 31 August 2022
 
-Total Time: 35 hrs 58 mins
+Total Time: 38 hrs 9 mins
 
-TypeScript   31 hrs 20 mins  █████████████████████▓░░░   87.11 %
-Other        1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+TypeScript   32 hrs 11 mins  █████████████████████░░░░   84.37 %
+Other        1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
