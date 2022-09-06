@@ -37,16 +37,16 @@ I'm a self-taught developer, who's currently pursuing a Full-Stack development t
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2022 - To: 04 September 2022
+From: 29 August 2022 - To: 05 September 2022
 
-Total Time: 44 hrs 17 mins
+Total Time: 51 hrs 43 mins
 
-TypeScript   37 hrs 45 mins  █████████████████████▒░░░   85.26 %
-Markdown     1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-PowerShell   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-SCSS         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JavaScript   1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-JSON         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+TypeScript   44 hrs 1 min    █████████████████████▒░░░   85.13 %
+PowerShell   1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+JSON         1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown     1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+SCSS         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+JavaScript   1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
