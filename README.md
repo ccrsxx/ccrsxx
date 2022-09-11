@@ -36,7 +36,9 @@ Currently learning Front-end development and soon to the Back-end development.
 
 ```text
 From: 02 September 2022 - To: 09 September 2022
+
 Total Time: 52 hrs 2 mins
+
 TypeScript   45 hrs 29 mins  ██████████████████████░░░   87.41 %
 Python       3 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 PowerShell   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
