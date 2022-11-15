@@ -35,13 +35,13 @@ Currently learning Front-end development and soon to the Back-end development.
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Total Time: 28 hrs 44 mins
+Total Time: 24 hrs 15 mins
 
-TypeScript   16 hrs 16 mins  ██████████████░░░░░░░░░░░   56.62 %
-Markdown     5 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Other        4 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+TypeScript   8 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   36.76 %
+Markdown     6 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Other        4 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
 ```
 
 <!--END_SECTION:waka-->
