@@ -35,7 +35,7 @@ Currently learning Front-end development and soon to the Back-end development.
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 April 2023 - To: 06 May 2023
+From: 30 April 2023 - To: 07 May 2023
 
 Total Time: 27 hrs 11 mins
 
