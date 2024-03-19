@@ -35,15 +35,15 @@ Currently learning Front-end development and soon to the Back-end development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
-Total Time: 14 hrs 57 mins
+Total Time: 11 hrs 37 mins
 
-TypeScript   10 hrs 44 mins  ██████████████████░░░░░░░   71.85 %
-Python       2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-JSON         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+TypeScript   7 hrs 24 mins   ████████████████░░░░░░░░░   63.77 %
+Python       2 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
