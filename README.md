@@ -35,15 +35,15 @@ Currently learning Front-end development and soon to the Back-end development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2024 - To: 22 August 2024
+From: 16 August 2024 - To: 23 August 2024
 
-Total Time: 20 hrs 54 mins
+Total Time: 19 hrs 21 mins
 
-TypeScript    17 hrs 38 mins  █████████████████████░░░░   84.43 %
-Markdown      2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Image (svg)   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-SCSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JSON          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript    16 hrs 16 mins  █████████████████████░░░░   84.05 %
+Markdown      2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Image (svg)   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+SCSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
