@@ -29,9 +29,6 @@ Currently learning Front-end development and soon to the Back-end development.
 
 ### 📊 Weekly Development Breakdown
 
-<!-- ![ccrsxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccrsxx&count_private=true&theme=tokyonight) -->
-<!-- ![ccrsxx's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccrsxx&hide=lua,java,html&theme=tokyonight) -->
-
 <!--START_SECTION:waka-->
 
 ```txt
