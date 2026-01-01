@@ -32,15 +32,15 @@ Currently learning Front-end development and soon to the Back-end development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 7 hrs 40 mins
+Total Time: 7 hrs 21 mins
 
-TypeScript   6 hrs 44 mins   ██████████████████████░░░   87.83 %
-JSON         48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TypeScript   6 hrs 54 mins   ███████████████████████▒░   93.88 %
+JSON         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
