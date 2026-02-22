@@ -32,15 +32,15 @@ Currently learning Front-end development and soon to the Back-end development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 37 hrs 56 mins
+Total Time: 32 hrs 22 mins
 
-Go           20 hrs 44 mins        █████████████▓░░░░░░░░░░░   54.69 %
-TypeScript   13 hrs 36 mins        █████████░░░░░░░░░░░░░░░░   35.87 %
-Makefile     1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-YAML         1 hr 3 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-JSON         28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Go           20 hrs 15 mins        ███████████████▓░░░░░░░░░   62.55 %
+TypeScript   8 hrs 34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
+Makefile     1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+YAML         1 hr 3 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JSON         26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
