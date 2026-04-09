@@ -32,12 +32,13 @@ Currently learning Front-end development and soon to the Back-end development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Total Time: 0 secs
+Total Time: 32 mins
 
-Go           0 secs                ██████████████████████▒░░   89.87 %
-TypeScript   0 secs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Go           32 mins               ████████████████████████▓   99.24 %
+Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
