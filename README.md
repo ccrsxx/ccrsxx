@@ -4,25 +4,16 @@ I'm a self-taught developer, who's currently specializing a Full-Stack developme
 
 ---
 
-### 🧑‍💻 Technologies & Tools
+### 🧑‍💻 Skills
 
 <a href="https://discord.com/users/414304208649453568" target="_blank" rel="nofollow">
    <img src="https://lanyard-profile-readme.vercel.app/api/414304208649453568?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
 </a>
 
-- Frontend:
-  - React
-  - Next.js
-  - Tailwind CSS
-  - TanStack
-
-- Backend:
-  - Go
-  - Node.js
-  - Express
-  - PostgreSQL
-  - Prisma
-  - sqlc
+- **Languages**: TypeScript, JavaScript, Go, Python, SQL
+- **Frameworks & Databases**: React, Next.js, Node.js, Express, TanStack, Tailwind CSS, Material UI, Prisma, sqlc, Goose, PostgreSQL, Firestore
+- **Infra & DevOps**: Google Cloud Platform, Firebase, GitHub Actions, Docker, Linux, Cloudflare
+- **Tools**: Git, GitHub, Postman, Bash, Make, npm
 
 ---
 
