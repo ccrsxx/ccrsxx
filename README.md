@@ -1,6 +1,6 @@
 <img src="assets/wave.svg" alt=":wave:" />
 
-I'm a self-taught developer, who's currently specializing a Full-Stack development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
+I am a Full Stack Developer specializing in creating precise, engaging user experiences on the frontend and architecting scalable, secure infrastructure on the backend.
 
 ---
 
