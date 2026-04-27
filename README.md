@@ -1,6 +1,6 @@
 <img src="assets/wave.svg" alt=":wave:" />
 
-I'm a self-taught developer, who's currently pursuing a Full-Stack development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
+I'm a self-taught developer, who's currently specializing a Full-Stack development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
 
 ---
 
@@ -10,20 +10,19 @@ I'm a self-taught developer, who's currently pursuing a Full-Stack development t
    <img src="https://lanyard-profile-readme.vercel.app/api/414304208649453568?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
 </a>
 
-- 🖥️ Front-end:
+- Frontend:
+  - React
+  - Next.js
+  - Tailwind CSS
+  - TanStack
 
-  - TypeScript
-  - React / Next.js
-  - Tailwind CSS / SASS
-  - In the past: HTML/CSS/JS
-
-- 🛠 Scripting:
-
-  - Python
-  - PowerShell
-  - Web Scraping / Selenium
-
-Currently learning Front-end development and soon to the Back-end development.
+- Backend:
+  - Go
+  - Node.js
+  - Express
+  - PostgreSQL
+  - Prisma
+  - sqlc
 
 ---
 
