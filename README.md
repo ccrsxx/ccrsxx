@@ -22,15 +22,15 @@ I am a Full Stack Developer specializing in creating precise, engaging user expe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2026 - To: 20 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
-Total Time: 12 hrs 58 mins
+Total Time: 9 hrs 37 mins
 
-Go           8 hrs 37 mins         ████████████████▓░░░░░░░░   66.51 %
-TypeScript   3 hrs 25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-JSON         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-YAML         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Other        8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript   6 hrs 5 mins          ███████████████▓░░░░░░░░░   63.24 %
+Go           1 hr 50 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+YAML         37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JSON         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Other        12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
